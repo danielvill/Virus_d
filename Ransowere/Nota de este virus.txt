@@ -1,0 +1,6 @@
+para que se ejecute y quieras hacer mas daño recuerda que este genera una llave para desbloquear
+pero el usaurio no sabra donde se lo pone la otra cosa es que encitando encriopta pero tienes 
+que cambiar el mensaje para que pongas otra cosa
+y desencriptar puede desbloquea el archivo 
+punto interesante cuidado con repetir muchas veces la encriptacion puedes dañar el formato
+no se si se puede hacer un ejecutable para esto pero tendrias que probar.
